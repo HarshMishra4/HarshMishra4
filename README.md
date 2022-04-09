@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Coder from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
-
+<br>
 - 🔭 I’m currently working on **Chat Room Application**
 
 - 🌱 I’m currently learning **Spring Framework**
